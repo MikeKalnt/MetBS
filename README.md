@@ -14,19 +14,19 @@ To acknowledge the use of the source code, please use the following reference:
 
 ### Plain Text
 
-M. Kalntis, G. Iosifidis and F. A. Kuipers, "Adaptive Resource Allocation for Virtualized Base Stations in O-RAN with Online Learning," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2024.3461569.
+M. Kalntis, G. Iosifidis and F. A. Kuipers, "Adaptive Resource Allocation for Virtualized Base Stations in O-RAN with Online Learning," in IEEE Transactions on Communications, vol. 73, no. 3, pp. 1787-1800, March 2025, doi: 10.1109/TCOMM.2024.3461569
 
 ### BibTeX
 
 ```
-@article{kalntis_tcom24,
+@article{kalntis_tcom25,
   author={Kalntis, Michail and Iosifidis, George and Kuipers, Fernando A.},
   journal={IEEE Transactions on Communications}, 
   title={Adaptive Resource Allocation for Virtualized Base Stations in O-RAN with Online Learning}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-1},
+  year={2025},
+  volume={73},
+  number={3},
+  pages={1787-1800},
   doi={10.1109/TCOMM.2024.3461569}}
 ```
 
